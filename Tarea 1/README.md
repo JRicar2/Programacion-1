@@ -1,4 +1,4 @@
-# Tarea-1
+# Tarea 1
 Replicar el ejercicio del video
 
 <a href="https://www.youtube.com/watch?v=3Lm9AXbCtOQ" rel="nofollow">Métodos de clase (no estáticos). La palabra clave this</a>
