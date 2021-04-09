@@ -1,4 +1,4 @@
-**Asignación 1**
+# Asignación 1
 
 Escriba la definición de la clase CuentaBancaria cuyo alcance debe ser público. Tipos:
 
