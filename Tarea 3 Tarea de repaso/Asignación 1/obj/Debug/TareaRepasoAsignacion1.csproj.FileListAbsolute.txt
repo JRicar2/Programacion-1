@@ -1,0 +1,7 @@
+C:\Users\juanr\source\repos\Asignación 1\bin\Debug\TareaRepasoAsignacion1.exe.config
+C:\Users\juanr\source\repos\Asignación 1\bin\Debug\TareaRepasoAsignacion1.exe
+C:\Users\juanr\source\repos\Asignación 1\bin\Debug\TareaRepasoAsignacion1.pdb
+C:\Users\juanr\source\repos\Asignación 1\obj\Debug\TareaRepasoAsignacion1.csprojAssemblyReference.cache
+C:\Users\juanr\source\repos\Asignación 1\obj\Debug\TareaRepasoAsignacion1.csproj.CoreCompileInputs.cache
+C:\Users\juanr\source\repos\Asignación 1\obj\Debug\TareaRepasoAsignacion1.exe
+C:\Users\juanr\source\repos\Asignación 1\obj\Debug\TareaRepasoAsignacion1.pdb
