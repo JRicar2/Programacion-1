@@ -2,7 +2,8 @@
 
 Esta tarea cuenta de dos Asignaciones:
 
-**Asignacion 1**
+
+##Asignación 1
 
 Escriba la definición de la clase CuentaBancaria cuyo alcance debe ser público. Tipos:
 
@@ -27,7 +28,7 @@ Instancia 2:
 
 
 
-**Asignacion 2**
+##Asignación 2
 
 Un banco tiene 3 clientes que pueden hacer depósitos y extracciones. También el banco requiere que al final del día calcule la cantidad de dinero que hay depositada.
 
